@@ -1,0 +1,23 @@
+Bo|Ek|boxekx03|1.94
+Lars|Larsson|larlar01|1.91
+Lennart|Ek|lenekx07|1.86
+Bjorn|Ek|bjoekx04|1.79
+Bo Einar|von Krusenstjart|boevon10|1.78
+Bo|Eklund|boxekl05|1.75
+Svante|Sturesson|svastu06|1.74
+Yi|Min|yixmin08|1.69
+Eva|Svensson|evasve02|1.64
+Sirpa|Hukkalainen|sirhuk10|1.55
+Lasse|Haraldsson|lashar11|1.93
+Peter|Dalle|petdal12|1.75
+Monika|Hansson|monhan13|1.54
+Yi|Xuing|yixxui14|1.46
+Albin|Svensson|albsve15|1.92
+Beata|Bengtsson|beaben16|1.65
+Sven|Turesson|svetur17|1.88
+Sverker|Larsson|svelar18|1.99
+Anna|Lo|annlox19|1.74
+Ann-Kristin|Bedrup|annbed20|1.67
+Sture|Baddare|stubad21|1.92
+Sture|Bergvall|stuber22|1.84
+Andre|Bertilsson|andber23|1.72
